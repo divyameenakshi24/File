@@ -3,6 +3,7 @@
 ## Aim:
 To Develop a C# program to get the values from the students such as name, age, department, and semester_percentage using the structure and store it in a file in a specific path using the file stream concept.
 ## Algorithm:
+
 ## Step 1:
 Create a structure of student details.
 
