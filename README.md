@@ -78,6 +78,7 @@ public class program
 ```
 <br>
 <br>
+
 ## Output:
 ![image](https://user-images.githubusercontent.com/75235402/175273667-fe91f69d-686d-449b-a72c-a99a1bfdbbcd.png)
 
